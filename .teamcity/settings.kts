@@ -1,4 +1,0 @@
-project {
-
-    buildType(Build)
-}
