@@ -33,7 +33,7 @@ project {
 }
 
 object Build : BuildType({
-    name = "+_)!@(#!*@#%&^\$#(!@\$!@\$!@#>?!@#><!@#<>!@M\$!>@<#<!@#>!@A>SD?MAKS#!<@\$!@>\$<!@>\$123sadlknasdnkln1nj23kj"
+    name = "Build"
 
     vcs {
         root(DslContext.settingsRoot)
