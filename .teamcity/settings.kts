@@ -48,7 +48,7 @@ object Build : BuildType({
     }
 
     triggers {
-        vcssdm1 {
+        vcs {
         }
     }
 
