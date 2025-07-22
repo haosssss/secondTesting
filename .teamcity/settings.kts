@@ -33,7 +33,7 @@ project {
 }
 
 object Build : BuildType({
-    name = "<script>alert('XSS')</script>"
+    name = "+_)!@(#!*@#%&^\$#(!@\$!@\$!@#>?!@#><!@#<>!@M\$!>@<#<!@#>!@A>SD?MAKS#!<@\$!@>\$<!@>\$123sadlknasdnkln1nj23kj"
 
     vcs {
         root(DslContext.settingsRoot)
