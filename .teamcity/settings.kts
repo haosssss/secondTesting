@@ -1,0 +1,4 @@
+project {
+
+    buildType(Build)
+}
